@@ -2,6 +2,7 @@
 A Python-based Socially Assistive Robot prototype designed to support social interaction and cognitive stimulation among older adults.
 
 ## Overview
+University project | Human-Computer Interaction | 2025–2026
 
 This project was developed by a team of four students as part of a university course in Human-Computer Interaction (HCI).
 
@@ -33,27 +34,4 @@ The prototype was tested with an older participant, Concetta, using a simulator.
 
 - `hello_reachy.py` – Python implementation of the prototype.
 - `requirements.txt` – project dependencies.
-- `presentation.pdf` – university project presentation.
-
-## Running the project
-
-1. Set up the Reachy Mini simulation environment.
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Python script:
-
-   ```bash
-   python hello_reachy.py
-   ```
-
-*Note: The prototype uses terminal-based text input and output. It does not implement speech recognition or voice-based conversation.*
-
-## Context
-
-University project | Human-Computer Interaction | 2025–2026
-
-Developed collaboratively by a team of four students.
+- `assignment_robot_gruppoAM(1).pdf` – university project presentation.
